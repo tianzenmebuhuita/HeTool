@@ -1,0 +1,13 @@
+package com.tian.titool;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TitoolApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(TitoolApplication.class, args);
+    }
+
+}
